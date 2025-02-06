@@ -112,6 +112,7 @@
     <IntDir>$(SolutionDir)$(Configuration)\build\intermediates\</IntDir>
     <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+    <SourcePath>C:\Users\pekka\Desktop\hook-project\imgui-menu-dx9\src;$(SourcePath)</SourcePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

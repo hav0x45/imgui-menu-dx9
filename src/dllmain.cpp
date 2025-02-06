@@ -23,7 +23,7 @@ void Setup(const HMODULE instance) {
     }
 
 UNLOAD:
-    MessageBoxA(0, "Hello World!", "Goodbye CS:GO, Hello CS2!", 0);
+    MessageBoxA(0, "Hello World!", "Hello CS2!", 0);
     MyHooks::Destroy();
     MyGui::DestroyMenu();
     FreeLibraryAndExitThread(instance, 0);

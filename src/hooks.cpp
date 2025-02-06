@@ -1,8 +1,7 @@
 #include <stdexcept>
 #include <intrin.h>
-#include "../ext/minhook/minhook.h"
 #include "hooks.h"
-
+#include "../ext/minhook/minhook.h"
 #include "../ext/imgui/imgui_impl_dx9.h"
 #include "../ext/imgui/imgui_impl_win32.h"
 

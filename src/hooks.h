@@ -1,4 +1,3 @@
-#pragma once
 #include "gui.h"
 
 namespace MyHooks {
